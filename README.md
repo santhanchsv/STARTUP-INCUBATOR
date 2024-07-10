@@ -1,5 +1,5 @@
 ## Idea Title	
-StartUp-Accelerator : AI powered web portal for Startups
+StartUp-Incubator : AI powered web portal for Startups
 
 
 ## Problem Statement Title
@@ -19,8 +19,7 @@ Development of Integrated dashboard for sharing of innovation and startups with 
 
 <br>
 
-## Presentation Link
-[Idea Link](https://drive.google.com/file/d/1_Ox-p-TFOkk89-yWpEuqvqbiZrea46Br/view?usp=sharing)
+
 
 
 ## Idea Abstract
@@ -35,30 +34,42 @@ The government of India's “Make in India” initiative includes innovation and
 ## Website Snapshots
 
 ### Front Page
-![frontpage](website-snapshots/1.PNG)
+![frontpage](website-snapshots/home.png)
+
+### CHAT BOT -API
+![frontpage](website-snapshots/chatbot.png)
+
+### LANGUAGE TRASULATOR -API
+![frontpage](website-snapshots/language.png)
 
 ### Top Start Ups
-![startups](website-snapshots/2.PNG)
+![startups](website-snapshots/topstartups.png)
 
 ### Resources
-![resources](website-snapshots/3.PNG)
+![resources](website-snapshots/learningresources.png)
 
 ### Government Schemes
-![schemes](website-snapshots/5.PNG)
+![schemes](website-snapshots/govschemes.png)
 
-### Student/StartUp Fellow Registration
-![register](website-snapshots/6.PNG)
+### ENT/StartUp Fellow Registration
+![register](website-snapshots/entreg.png)
 
 ### Further Details
 ![details](website-snapshots/8.PNG)
 
 ### Mentor/Investor Info
-![info](website-snapshots/7.PNG)
-![connect](website-snapshots/10.PNG)
+![info](website-snapshots/dashboard.png)
+![connect](website-snapshots/Details.png)
 
 ### Organization Projects
-![projects](website-snapshots/9.PNG)
+![projects](website-snapshots/dashboardgov.png)
 
 ### Project Submission
 ![submit](website-snapshots/4.PNG)
+
+### ENTER ROOM
+![submit](website-snapshots/joinroom.png)
+
+### CHAT WITH RESPECTIVE USERS
+![submit](website-snapshots/chat.png)
 
