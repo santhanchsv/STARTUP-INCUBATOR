@@ -1,5 +1,5 @@
 ## Idea Title	
-StartUp-Incubator : AI powered web portal for Startups  USING DOCKER
+StartUp-Incubator : AI powered web portal for Startups  ##USING DOCKER
 
 
 ## Problem Statement Title
